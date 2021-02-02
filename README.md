@@ -1,4 +1,5 @@
 # Infinite-scroll-js
+# Infinite Switzerland
 Scroll images infinite
 
 This is a simple training app based on HTML, CSS and Javascript.
