@@ -6,7 +6,7 @@ let photosArray = [];
 // Unsplash API
 const count = 30;
 const apiKey = 'OovPkbtEmNghsPT2GtX5jDsJVpQjXCh_MxgVmCYnBSo';
-const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
+const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}&query=switzerland`;
 
 // Helper Function to Set Attributes on DOM Elements
 function setAttributes(element, attributes) {
